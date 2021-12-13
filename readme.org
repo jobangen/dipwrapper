@@ -1,0 +1,8 @@
+* dipwrapper
+Python wrapper for the API of the 'Dokumentations- und Informationssystems
+für Parlamentsmaterialien (DIP)' of the german Bundestag ([[https://dip.bundestag.de/%C3%BCber-dip/hilfe/api][link]]).
+
+An API key ist provided on the web site.
+
+For implementation details of the API see the [[https://dip.bundestag.de/documents/informationsblatt_zur_dip_api.pdf][documentation]]:
+
